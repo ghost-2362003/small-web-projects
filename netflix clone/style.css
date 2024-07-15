@@ -1,0 +1,86 @@
+body{
+    display:body;
+    line-height: 1;
+    margin:auto;
+    background-image: url(https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav ul.topnav li{
+    list-style: none;
+    background-color: #f54242;
+    border-radius: 5px;
+}
+
+nav ul.topnav li a{
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    min-height: 1px;
+    text-transform:lowercase;
+    padding: 14px;
+    text-align: center;
+    font-weight: 900;
+}
+
+img.logo{
+    width: 300px;
+    height: 120px;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+ul.topnav li a:hover{
+    color:white;
+    background-color: #3d3d40;
+    border-radius: 4px;
+    
+}
+
+ul.topnav li.topnav-right{
+    float:right;
+    margin-right: 200px;
+    margin-top: 1px;
+    
+}
+
+div h1.head-text{
+    text-align: center;
+    margin-top: 200px;
+    color: #fff;
+    font-weight: 1000;
+    font-family: 'Poppins', sans-serif;
+}
+
+div h3.head-1-text{
+    text-align: center;
+    font-size:medium;
+    color:#fff;
+}
+
+div h4.head-2-text{
+    text-align: center;
+    font-size: large;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img.logo{
+    opacity: 1;
+}
+
+div h1.created{
+    color: #fff;
+    text-align: center;
+}
+
+searchbar form input{
+    margin-left: 500px;
+    margin-bottom: 200px;
+    border-radius: 6px;
+    width: 30%;
+    height: 70%;
+}
